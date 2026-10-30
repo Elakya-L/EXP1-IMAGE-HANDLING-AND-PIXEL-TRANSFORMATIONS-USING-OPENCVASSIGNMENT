@@ -1,8 +1,7 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-**Name:** ELAKYA L  
-**Register Number:** 212225230066 
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+# **Name:** ELAKYA L  
+# **Register Number:** 212225230066 
 
 ---
 
